@@ -1,6 +1,6 @@
 # HII Coders - Siddharth Dange this side!!
 
-<img align="center" alt="shivkaansh" src="https://github-readme-stats.vercel.app/api?username=Siddharthdange&show_icons=true&theme=dracula&hide_border=true&" />
+<img align="center" alt="siddharthDange" src="https://github-readme-stats.vercel.app/api?username=Siddharthdange&show_icons=true&theme=dracula&hide_border=true&" />
 
 ## Some of my favorite technology stacks are
 
